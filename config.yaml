@@ -1,0 +1,30 @@
+
+# Tencent cloud OCR params
+SecretId: xxx
+SecretKey: xxx
+
+# The url to the form
+FormUrl: https://xxx
+
+# Firefox path and geckodriver path
+FirefoxPath: xxx
+GeckoDriverPath: xxx
+
+# Jinshan Account
+UserName: xxx
+PassWd: xxx
+
+# Form image path
+FormImagePath: ./data/images
+
+# Table image path
+TableImagePath: ./data/infodata
+
+# Information middle file path
+ExcelPath: ./data/excel
+
+# Information extracter result path
+InfoPath: info.txt
+
+# Forms number
+Number: 100

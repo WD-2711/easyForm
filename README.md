@@ -1,6 +1,6 @@
 # EasyForm
 
-![](../../source/images/README/easyform-v1-red.svg)
+![](https://github.com/WD-2711/easyForm/blob/main/README/easyform-v1-red.svg)
 
 ------
 
@@ -22,7 +22,7 @@
 
 ​	It's for JinShan online survey, the picture corresponding to this form is as follows.
 
-![](../../source/images/README/1.png)
+![](https://github.com/WD-2711/easyForm/blob/main/README/1.png)
 
 ## Usage
 
